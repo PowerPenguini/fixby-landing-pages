@@ -1,7 +1,7 @@
-:HL["/fixby-landing-pages/_next/static/chunks/31b4hx_1hznzd.css","style"]
-:HL["/fixby-landing-pages/_next/static/media/manrope_latin_ext_wght_normal.p.0-hru0xfwhnbp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/fixby-landing-pages/_next/static/media/manrope_latin_wght_normal.p.1p_a2k8qd5zhp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/fixby-landing-pages/_next/static/chunks/3gfh1dw8hywcf.css","style"]
-:HL["/fixby-landing-pages/_next/static/chunks/1y8n14hf07o-j.css","style"]
-:HL["/fixby-landing-pages/fixby-logo.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"slug","param":{"type":"d","key":"montaz-sieci-lan-wifi-lodz","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"5W9QqSQHY3So8KtYWpY8g"}
+:HL["/_next/static/chunks/31b4hx_1hznzd.css","style"]
+:HL["/_next/static/media/manrope_latin_ext_wght_normal.p.0-hru0xfwhnbp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/manrope_latin_wght_normal.p.1p_a2k8qd5zhp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/3gfh1dw8hywcf.css","style"]
+:HL["/_next/static/chunks/1y8n14hf07o-j.css","style"]
+:HL["/fixby-logo.svg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"slug","param":{"type":"d","key":"montaz-sieci-lan-wifi-lodz","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"8tPAOMHvgjgFSacEvZfeS"}
