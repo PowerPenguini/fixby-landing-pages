@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://powerpenguini.github.io/fixby-landing-pages/sitemap.xml
